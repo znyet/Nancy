@@ -1,0 +1,2 @@
+https://github.com/NancyFx/Nancy
+https://github.com/NancyFx/Nancy/wiki/Documentation
