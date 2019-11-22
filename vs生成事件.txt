@@ -1,0 +1,6 @@
+生成事件===后期生成事件命令
+
+mkdir "$(TargetDir)Views"
+mkdir "$(TargetDir)Content"
+xcopy "$(ProjectDir)Views" "$(TargetDir)Views" /S /E /C /Y
+xcopy "$(ProjectDir)Content" "$(TargetDir)Content" /S /E /C /Y
